@@ -40,6 +40,6 @@ Sou um desenvolvedor apaixonado por tecnologia e arquitetura de sistemas moderno
 ### Entre em contato
 
 * Email: [guilherme.seuemail@exemplo.com](mailto:guilher.gotardo@gmail.com)
-* LinkedIn: [linkedin.com/in/guilherme-gotardo](https://linkedin.com/in/guilherme-gotardo)
+* LinkedIn: [linkedin.com/in/guilherme-gotardo](https://www.linkedin.com/in/guilherme-gotardo-santos-2383a3204/)
 
 Sinta-se à vontade para explorar meus repositórios e contribuir com ideias e melhorias!
